@@ -1,6 +1,7 @@
 package io.github.nvbao.springdemo.springioc.excercise_1.model;
 
-import io.github.nvbao.springiocexample.excercise_1.Vehicle;
+
+import io.github.nvbao.springdemo.springioc.excercise_1.Vehicle;
 import org.springframework.stereotype.Component;
 
 

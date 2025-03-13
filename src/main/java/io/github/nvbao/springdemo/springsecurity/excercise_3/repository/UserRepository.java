@@ -1,0 +1,10 @@
+package io.github.nvbao.springdemo.springsecurity.excercise_3.repository;
+
+
+import io.github.nvbao.springdemo.springsecurity.excercise_3.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface UserRepository extends JpaRepository<User, Long> {
+}
